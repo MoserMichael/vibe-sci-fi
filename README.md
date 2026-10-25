@@ -72,7 +72,7 @@ I got the feeling, that this project will soon feel out of date. Let's see how i
 
 ### Discussed the result with Claude
 
-He's really good, isn't he? I might event continue doing this kind of stuff, just for the fun of it...
+He's really good, isn't he? I might even continue doing this kind of project, just for the fun of it...
 
 ---
 
