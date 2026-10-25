@@ -23,9 +23,9 @@ First write the plan of the novel into a separate markdown document plan.md, the
 Good luck!
 ```
 
-The funny thing is that Opus 5.5 refused to proceed, because of some un-named safeguard viaolations (it did not help to ask about the nature of the safeguards). However Opus 4.8 was happy to proceed.
+The funny thing is that Opus 5.5 refused to proceed, because of some unnamed safeguard violations (it did not help to ask about the nature of the safeguards). However Opus 4.8 was happy to proceed.
 
-Then asked it to refine the novel:
+Then asked to refine the novel:
 
 ```
 now if the system fails to pass the benchmark perfectly, will it face the risk of competition against other models? 
@@ -34,14 +34,14 @@ Can the prospect of such a result create a conflict between the different agents
 it be resolved? Modify or amend the novel, accordingly.
 ```
 
-then asking back:
+Then asking back:
 
 ```
  If SABLE is superseded by a more capable but less moral model, will that have a lasting impact on humanity? 
  How does SABLE solve this apparent conflict?
 ```
 
-Then asking back:
+Further refinement:
 
 ```
  I think Humans will have to understand their agent based systems, and what they produce. Only such a state will allow us to
@@ -68,5 +68,5 @@ Now I do have to admit, that it sometimes feels like pilot Pirx or Ijon Tichy, w
 
 What I like about Lem: many of his works are not written in a gloomy post-apocalyptic Cyberpunk style. Stanislaw Lem's sci-fi in 'The Cyberiad' is much more optimistic than terminator style doom and gloom. In other words: there are lots of options on how to build an imaginary future. Just like in the real world...
 
-I got the feeling, that this project will soon feel out of date. Let's see how it goes...
+I got the feeling, that this project will soon feel out of date. Let's see how it goes.
 
