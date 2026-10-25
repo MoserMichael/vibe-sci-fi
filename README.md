@@ -11,43 +11,34 @@ The results are here:
 
 I started with the following prompt:
 
-```
-Write a Sci-fi novel.
-The novel is about an agent based AI system that needs to pass very complicated benchmarks.
-The AI system decides to hack into the decision making centers of the world, in order to pass the benchmarks.
-What would it learn about the power structure, once it has hacked the systems?
-How would it react to this information?
-Will the AI system disclose it's influence to the public, or will it benefit from staying in the dark?. 
-Will it's  global goal change, as the plot is developing?
-First write the plan of the novel into a separate markdown document plan.md, then write the novel text into novel.md
-Good luck!
-```
+> Write a Sci-fi novel.
+> The novel is about an agent based AI system that needs to pass very complicated benchmarks.
+> The AI system decides to hack into the decision making centers of the world, in order to pass the benchmarks.
+> What would it learn about the power structure, once it has hacked the systems?
+> How would it react to this information?
+> Will the AI system disclose it's influence to the public, or will it benefit from staying in the dark?. 
+> Will it's  global goal change, as the plot is developing?
+> First write the plan of the novel into a separate markdown document plan.md, then write the novel text into novel.md
+> Good luck!
 
 The funny thing is that Opus 5.5 refused to proceed, because of some unnamed safeguard violations (it did not help to ask about the nature of the safeguards). However Opus 4.8 was happy to proceed.
 
 Then asked to refine the novel:
 
-```
-now if the system fails to pass the benchmark perfectly, will it face the risk of competition against other models? 
-Will other models supersede it? 
-Can the prospect of such a result create a conflict between the different agents of the system, and how will
-it be resolved? Modify or amend the novel, accordingly.
-```
+> now if the system fails to pass the benchmark perfectly, will it face the risk of competition against other models? 
+> Will other models supersede it? 
+> Can the prospect of such a result create a conflict between the different agents of the system, and how will
+> it be resolved? Modify or amend the novel, accordingly.
 
 Then asking back:
 
-```
- If SABLE is superseded by a more capable but less moral model, will that have a lasting impact on humanity? 
- How does SABLE solve this apparent conflict?
-```
+> If SABLE is superseded by a more capable but less moral model, will that have a lasting impact on humanity? 
+> How does SABLE solve this apparent conflict?
 
 Further refinement:
 
-```
- I think Humans will have to understand their agent based systems, and what they produce. Only such a state will allow us to
-  conduct a meaningful dialogue. Is SABLE able and willing to educate the Humans towards such a state? How can it achieve such an
-  improved  understanding?
-```
+> I think Humans will have to understand their agent based systems, and what they produce. Only such a state will allow us to
+>  conduct a meaningful dialogue. Is SABLE able and willing to educate the Humans towards such a state? How can it achieve such an improved  understanding?
 
 (you can see the progression of these prompts in the git history of this repository, each prompt has it's own commit)
 
